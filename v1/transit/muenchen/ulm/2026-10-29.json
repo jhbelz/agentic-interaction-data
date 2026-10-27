@@ -1,0 +1,21 @@
+{
+  "from": "München",
+  "to": "Ulm",
+  "date": "2026-10-29",
+  "connections": [
+    {
+      "departure": "13:28",
+      "arrival": "14:47",
+      "changes": 0,
+      "train": "ICE 591",
+      "price_eur": 29.9
+    },
+    {
+      "departure": "15:28",
+      "arrival": "16:47",
+      "changes": 0,
+      "train": "ICE 593",
+      "price_eur": 29.9
+    }
+  ]
+}

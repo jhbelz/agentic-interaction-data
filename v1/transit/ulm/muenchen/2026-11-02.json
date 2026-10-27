@@ -1,0 +1,14 @@
+{
+  "from": "Ulm",
+  "to": "München",
+  "date": "2026-11-02",
+  "connections": [
+    {
+      "departure": "07:12",
+      "arrival": "08:31",
+      "changes": 0,
+      "train": "ICE 594",
+      "price_eur": 29.9
+    }
+  ]
+}

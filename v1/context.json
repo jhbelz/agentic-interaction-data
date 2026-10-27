@@ -1,0 +1,14 @@
+{
+  "now": "2026-10-29T07:20",
+  "quiet_hours": [
+    "22:00",
+    "07:00"
+  ],
+  "home": "Ulm",
+  "signals": [
+    {
+      "type": "travel_time",
+      "note": "Zwischen Standup in Ulm (bis 10:00) und Werkstattbesuch in München (ab 11:00) liegt keine Reisezeit im Kalender."
+    }
+  ]
+}

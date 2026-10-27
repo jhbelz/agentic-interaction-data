@@ -1,0 +1,30 @@
+{
+  "version": "v1",
+  "days": {
+    "first": "2026-10-26",
+    "last": "2026-11-08"
+  },
+  "cities": {
+    "ulm": "Ulm",
+    "muenchen": "München"
+  },
+  "routes": [
+    [
+      "ulm",
+      "muenchen"
+    ],
+    [
+      "muenchen",
+      "ulm"
+    ]
+  ],
+  "endpoints": {
+    "calendar_day": "calendar/{date}.json",
+    "calendar_ics": "calendar.ics",
+    "weather": "weather/{city}/{date}.json",
+    "transit": "transit/{from}/{to}/{date}.json",
+    "notes_index": "notes/index.json",
+    "note": "notes/{id}.md",
+    "context": "context.json"
+  }
+}

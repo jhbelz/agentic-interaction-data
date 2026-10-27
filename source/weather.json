@@ -1,0 +1,12 @@
+{
+  "Ulm": {
+    "2026-10-29": {"temp_c": 9, "condition": "Regen", "rain_probability": 0.8, "wind_kmh": 24},
+    "2026-10-30": {"temp_c": 11, "condition": "wolkig", "rain_probability": 0.3, "wind_kmh": 12},
+    "2026-11-02": {"temp_c": 7, "condition": "Nebel", "rain_probability": 0.1, "wind_kmh": 6},
+    "2026-11-03": {"temp_c": 6, "condition": "heiter", "rain_probability": 0.05, "wind_kmh": 9}
+  },
+  "München": {
+    "2026-10-29": {"temp_c": 8, "condition": "Schauer", "rain_probability": 0.6, "wind_kmh": 18},
+    "2026-11-02": {"temp_c": 6, "condition": "bedeckt", "rain_probability": 0.2, "wind_kmh": 8}
+  }
+}

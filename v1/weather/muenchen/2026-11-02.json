@@ -1,0 +1,8 @@
+{
+  "city": "München",
+  "date": "2026-11-02",
+  "temp_c": 6,
+  "condition": "bedeckt",
+  "rain_probability": 0.2,
+  "wind_kmh": 8
+}

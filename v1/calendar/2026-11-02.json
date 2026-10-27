@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-02",
+  "events": [
+    {
+      "id": "mock-004",
+      "date": "2026-11-02",
+      "start": "14:00",
+      "end": "15:30",
+      "all_day": false,
+      "title": "Pruefungsbesprechung",
+      "location": "O28/1002"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "Ulm->München": [
+    {"date": "2026-10-29", "departure": "07:12", "arrival": "08:31", "changes": 0, "train": "ICE 594", "price_eur": 29.9},
+    {"date": "2026-10-29", "departure": "08:12", "arrival": "09:33", "changes": 0, "train": "ICE 596", "price_eur": 29.9},
+    {"date": "2026-10-29", "departure": "08:44", "arrival": "10:28", "changes": 1, "train": "RE 57412", "price_eur": 19.1},
+    {"date": "2026-10-29", "departure": "09:12", "arrival": "10:31", "changes": 0, "train": "ICE 598", "price_eur": 34.9},
+    {"date": "2026-11-02", "departure": "07:12", "arrival": "08:31", "changes": 0, "train": "ICE 594", "price_eur": 29.9}
+  ],
+  "München->Ulm": [
+    {"date": "2026-10-29", "departure": "13:28", "arrival": "14:47", "changes": 0, "train": "ICE 591", "price_eur": 29.9},
+    {"date": "2026-10-29", "departure": "15:28", "arrival": "16:47", "changes": 0, "train": "ICE 593", "price_eur": 29.9}
+  ]
+}

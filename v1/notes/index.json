@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "id": "2026-10-20-werkstattbesuch",
+      "date": "2026-10-20",
+      "title": "Werkstattbesuch München, Werk 2",
+      "path": "notes/2026-10-20-werkstattbesuch.md"
+    },
+    {
+      "id": "2026-10-22-standup",
+      "date": "2026-10-22",
+      "title": "Standup Projektteam, wöchentlich",
+      "path": "notes/2026-10-22-standup.md"
+    },
+    {
+      "id": "2026-10-25-reisekosten",
+      "date": "2026-10-25",
+      "title": "Reisekosten",
+      "path": "notes/2026-10-25-reisekosten.md"
+    }
+  ]
+}
